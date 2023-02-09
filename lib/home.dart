@@ -64,7 +64,7 @@ class HomePage extends StatelessWidget {
             ),
             Divider(),
             ListTile(
-              title: Text(
+               title: Text(
                 "Close",
                 style: TextStyle(color: Colors.grey, fontSize: 20),
               ),
